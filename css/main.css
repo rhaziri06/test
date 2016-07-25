@@ -7,3 +7,10 @@ body {
 	font-size: 100%;
 	background-color: #ffffff;
 }
+header  {
+	min-height: 80px;
+	margin: 0;
+	padding: 0;
+	background-color: #eeeeee;
+	box-shadow: 0 8px 8px #eeeeee;
+}
